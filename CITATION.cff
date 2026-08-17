@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Joe
+  given-names: Johnson
+orcid: https://orcid.org/0000-0000-0000-0000
+title:bogdanbora-source/An-Autonomous-Tracked-Rover-for-Magnetic-and-Thermal-Mapping-of-Buildings-and-Utility-Infrastructure: An Autonomous Tracked Rover for Magnetic and Thermal Mapping of Buildings and Utility Infrastructure
+version: mapping_rover
+date-released: 2026-08-16
